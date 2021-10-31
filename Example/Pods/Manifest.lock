@@ -1,0 +1,16 @@
+PODS:
+  - circularContohFramework (0.1.0)
+
+DEPENDENCIES:
+  - circularContohFramework (from `../`)
+
+EXTERNAL SOURCES:
+  circularContohFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  circularContohFramework: 7568141aa818dd497bf376a83cf37d1991759423
+
+PODFILE CHECKSUM: 2350483f1da3bb2f5e63ed00afe1a9ea9f5fb849
+
+COCOAPODS: 1.11.2

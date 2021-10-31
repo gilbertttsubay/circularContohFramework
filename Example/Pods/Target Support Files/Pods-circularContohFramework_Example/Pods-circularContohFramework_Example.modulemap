@@ -1,0 +1,6 @@
+framework module Pods_circularContohFramework_Example {
+  umbrella header "Pods-circularContohFramework_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

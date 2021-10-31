@@ -1,0 +1,6 @@
+framework module circularContohFramework {
+  umbrella header "circularContohFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
